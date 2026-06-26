@@ -32,5 +32,5 @@ jobs:
           git config --local user.name "github-actions[bot]"
 
       - name: Deploy Site
-        run: npx quartz sync --commit --push
+        run: npx quartz build --bundle
   
