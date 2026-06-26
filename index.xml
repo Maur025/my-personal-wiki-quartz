@@ -6,17 +6,65 @@
       <description>Last 10 notes on Quartz 5</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>deployment</title>
+    <link>https://wiki.maur025.dev/deployment/</link>
+    <guid>https://wiki.maur025.dev/deployment/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Fri, 26 Jun 2026 03:42:38 GMT</pubDate>
+  </item><item>
+    <title>domains</title>
+    <link>https://wiki.maur025.dev/tags/domains</link>
+    <guid>https://wiki.maur025.dev/tags/domains</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Fri, 26 Jun 2026 03:42:38 GMT</pubDate>
+  </item><item>
+    <title>dominios</title>
+    <link>https://wiki.maur025.dev/tags/dominios</link>
+    <guid>https://wiki.maur025.dev/tags/dominios</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Fri, 26 Jun 2026 03:42:38 GMT</pubDate>
+  </item><item>
+    <title>registro-dominio</title>
+    <link>https://wiki.maur025.dev/tags/registro-dominio</link>
+    <guid>https://wiki.maur025.dev/tags/registro-dominio</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Fri, 26 Jun 2026 03:42:38 GMT</pubDate>
+  </item><item>
+    <title>a</title>
+    <link>https://wiki.maur025.dev/tags/a</link>
+    <guid>https://wiki.maur025.dev/tags/a</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Fri, 26 Jun 2026 03:42:38 GMT</pubDate>
+  </item><item>
+    <title>aaaa</title>
+    <link>https://wiki.maur025.dev/tags/aaaa</link>
+    <guid>https://wiki.maur025.dev/tags/aaaa</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Fri, 26 Jun 2026 03:42:38 GMT</pubDate>
+  </item><item>
+    <title>cname</title>
+    <link>https://wiki.maur025.dev/tags/cname</link>
+    <guid>https://wiki.maur025.dev/tags/cname</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Fri, 26 Jun 2026 03:42:38 GMT</pubDate>
+  </item><item>
     <title>Tag Index</title>
     <link>https://wiki.maur025.dev/tags/</link>
     <guid>https://wiki.maur025.dev/tags/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Fri, 26 Jun 2026 03:41:46 GMT</pubDate>
+    <pubDate>Fri, 26 Jun 2026 03:42:38 GMT</pubDate>
   </item><item>
-    <title>Welcome to Quartz</title>
-    <link>https://wiki.maur025.dev/</link>
-    <guid>https://wiki.maur025.dev/</guid>
-    <description><![CDATA[ This is a blank Quartz installation. See the documentation for how to get started. Un cambio para que se genere el build. ]]></description>
-    <pubDate>Thu, 25 Jun 2026 10:33:01 GMT</pubDate>
+    <title>registro de dominio (A)</title>
+    <link>https://wiki.maur025.dev/deployment/a-domain</link>
+    <guid>https://wiki.maur025.dev/deployment/a-domain</guid>
+    <description><![CDATA[ Registro de dominio de tipo A, sirve para asignar ip’s v4 a un dominio, ejemplo maur025.dev se puede asignar 4 dominios que te provee el servicio donde lo estés agregando: IP Servicio10.20.0.210.20.0.310.20.0.410.20.0.5 Generalmente deben reemplazar a los que te da el proveedor de tu dominio. ]]></description>
+    <pubDate>Fri, 26 Jun 2026 03:40:12 GMT</pubDate>
+  </item><item>
+    <title>registro de dominio (AAAA)</title>
+    <link>https://wiki.maur025.dev/deployment/aaaa-domain</link>
+    <guid>https://wiki.maur025.dev/deployment/aaaa-domain</guid>
+    <description><![CDATA[ Registro de dominio de tipo AAAA, sirve para asignar ip’s v6 a un dominio, ejemplo maur025.dev se puede asignar 4 dominios que te provee el servicio donde lo estés agregando: IP v6 Servicio3e33:072e:eef6:f20d:56bf:573b:2823:1941008b:0988:7d54:afe9:bfad:7226:dd6d:01ac6ba6:1fae:2e8e:60fb:4fd9:c54b:73b... ]]></description>
+    <pubDate>Fri, 26 Jun 2026 03:40:12 GMT</pubDate>
   </item>
     </channel>
   </rss>
