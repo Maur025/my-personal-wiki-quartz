@@ -27,7 +27,9 @@ jobs:
         run: npm ci
 
       - name: Deploy Site
-        run: npx quartz build
+        run: |
+          npx quartz plugin install --from-config
+          npx quartz build
 
       - name: Deploy to GitHub Pages Branch
         uses: peaceiris/actions-gh-pages@v4
