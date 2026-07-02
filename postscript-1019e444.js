@@ -12,4 +12,4 @@ await Promise.all([
   import("./static/scripts/script-10-f643f78c.js"),
   import("./static/scripts/script-11-a2f22c29.js")
 ]);
-await import("./static/scripts/script-12-2a7a3c13.js");
+await import("./static/scripts/script-12-165e0b86.js");
